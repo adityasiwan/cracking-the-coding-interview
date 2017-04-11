@@ -1,0 +1,12 @@
+numpy==1.11.1
+pandas==0.18.1
+notebook==4.2.2
+nbconvert==4.2.0
+matplotlib==1.5.2
+jupyter==1.0.0
+jupyter-client==4.3.0
+jupyter-console==5.0.0
+jupyter-core==4.1.1
+ipython==5.1.0
+ipython-genutils==0.1.0
+certifi==2016.8.8
