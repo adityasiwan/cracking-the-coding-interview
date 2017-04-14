@@ -35,7 +35,7 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email "youremail@domain.com"
 ```
 
-Clone repository hell-sing/hacker-rank
+Clone repository adityasiwan/cracking-the-coding-interview
 ```
 $ git clone git@github.com:adityasiwan/cracking-the-coding-interview.git
 ```
